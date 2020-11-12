@@ -6,6 +6,8 @@
 
 - [Ian Cooper: TDD, Where Did It All Go Wrong](https://vimeo.com/68375232) (Video)
 
+- [Roy Osherove: Understanding TDD](https://www.youtube.com/watch?v=q5Xd1tmIgec) (Video)
+
 - [Introduction to Test Driven Development (TDD)](http://agiledata.org/essays/tdd.html) - by Scott W. Ambler. "Test-driven development (TDD) is a development technique where you must first write a test that fails before you write new functional code."
 
 - [Is TDD Dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) (Video)
@@ -21,3 +23,4 @@
 ### Books
 
 - [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/) - by Kent Beck
+- [Art of Unit Testing, 3rd Edition, with Examples in JavaScript](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
