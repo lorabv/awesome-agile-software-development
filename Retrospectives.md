@@ -18,7 +18,7 @@
 
 - [Energizing Retrospective – Energize Your Team Retrospective With This Easy Exercise](https://luis-goncalves.com/energize-your-team-retrospective/) - by Luis Goncalves. "Most of us wish that a retrospective will leave us energized and super excited to get going on actions. Sam and Karen from Growing Agile follow an exercise for an energizing retrospective. Take a look at the structure of the exercise below."
 
-- [Fun Retro](http://funretro.github.io/distributed/) - An open-source tool for distributed agile retrospective
+- [EasyRetro](https://easyretro.io/) - An open-source tool for distributed agile retrospective
 
 - [Fun Retrospectives](http://www.funretrospectives.com/) - Activities and ideas for making agile retrospectives more engaging
 
